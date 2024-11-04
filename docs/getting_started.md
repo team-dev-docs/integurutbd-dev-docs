@@ -1,6 +1,10 @@
+---
+slug: "/"
+title: "Welcome"
+sidebar_position: 1
+---
 
-
-  # Getting Started with Integuru
+# Getting Started with Integuru
 
 Welcome to Integuru! This guide will walk you through the process of setting up and using Integuru, a powerful tool for automating web interactions and creating integrations.
 
